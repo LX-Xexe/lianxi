@@ -1,9 +1,5 @@
-import requests     #爬虫
-from datetime import datetime, timedelta     #时间模块
-import plotly.graph_objects as go   #画图库Plotly
-import os               #用于筛选并提取图片
-import random           #随机背景
-import streamlit as st  #网页库
-import base64           #背景图片转换代码
-beautifulsoup4
+streamlit
+plotly
 pandas
+requests
+beautifulsoup4
